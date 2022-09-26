@@ -1,5 +1,7 @@
-<img src="https://raw.githubusercontent.com/pizygroup/.github/main/assets/pizyhouse-homepage.png" alt="PIZY House Homepage" style="width: 700px;" />
+# PIZY Group
 
-# PIZY Group <img width="48px" src="../assets/rocket.gif">
+<img src="https://raw.githubusercontent.com/pizygroup/.github/main/assets/pizygroup-twitter-banner-v1.png" alt="PIZY House Homepage" style="width: 100%;" />
 
-Estamos aqui para facilitar sua vida. De todas as formas. Esperamos, não só cumprir com nosso objetivo, mas suprir suas expectativas.
+### Estamos aqui para facilitar sua vida. De todas as formas.
+
+Esperamos, não só cumprir com nosso objetivo, mas suprir suas expectativas.
