@@ -14,7 +14,7 @@ Para apoio **financeiro**:
 - Acesse [nossa página de doação](https://pizy.vercel.app/donation) em nosso site.
 
 Para apoio no **desenvolvimento**:
-- É possível realizar sua inscrição em nosso formulário para participação na nossa equipe de produção.
+- É possível realizar sua [inscrição em nosso formulário](https://pizy.vercel.app/) para participação na nossa equipe de produção.
 
 
 ### 🤓 Apoie o mercado júnior!
