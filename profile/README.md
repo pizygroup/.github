@@ -1,6 +1,6 @@
 # PIZY Group
 
-<img src="https://raw.githubusercontent.com/pizygroup/.github/main/assets/pizygroup-twitter-banner-v1.png" alt="PIZY House Homepage" style="width: 100%;" />
+<img src="https://raw.githubusercontent.com/pizygroup/.github/main/assets/pizygroup-github-banner-v1.png" alt="PIZY House Homepage" style="width: 100%;" />
 
 ### Estamos aqui para facilitar sua vida. De todas as formas.
 
