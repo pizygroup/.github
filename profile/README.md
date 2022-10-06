@@ -4,6 +4,8 @@
 
 ### Esperamos, não só cumprir com nosso objetivo, mas suprir suas expectativas.
 
+Somos um grupo de juniores em busca de aprendizado - com projetos que podem ser úteis para você. Visamos o mercado profissional e queremos contribuir dando visibilidade aos projetos de novos desenvolvedores.
+
 Confira nossos projetos, ideias e muito mais do nosso mundo acessando a [página da PIZY](https://pizy.vercel.app/).
 
 
