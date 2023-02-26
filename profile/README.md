@@ -4,18 +4,7 @@
 
 Somos um grupo de juniores em busca de aprendizado - com projetos que podem ser úteis para você. Visamos o mercado profissional e queremos contribuir dando visibilidade aos projetos de novos desenvolvedores.
 
-Confira nossos projetos, ideias e muito mais do nosso mundo acessando a [página da PIZY](https://pizy.vercel.app/).
-
-
-
-### 🥺 Contribua conosco!
-
-Para apoio **financeiro**:
-- Acesse [nossa página de doação](https://pizy.vercel.app/donation) em nosso site.
-
-Para apoio no **desenvolvimento**:
-- É possível realizar sua [inscrição em nosso formulário](https://pizy.vercel.app/) para participação na nossa equipe de produção.
-
+Confira nossos projetos, ideias e muito mais do nosso mundo acessando a [página da PIZY](https://pizy.group/).
 
 ### 🤓 Apoie o mercado júnior!
 
